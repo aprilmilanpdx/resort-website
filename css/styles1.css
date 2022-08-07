@@ -1,0 +1,14 @@
+h1 {
+  color: aqua;
+  text-align: center;
+  font-style: sans-serif;
+}
+
+p {
+  color:magenta;
+  text-align: center;
+}
+
+ul {
+  line-height: 200%;
+}
